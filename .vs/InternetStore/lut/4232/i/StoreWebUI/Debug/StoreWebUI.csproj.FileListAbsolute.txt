@@ -1,0 +1,7 @@
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\StoreWebUI\bin\StoreWebUI.dll.config
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\StoreWebUI\bin\StoreWebUI.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\StoreWebUI\bin\StoreWebUI.pdb
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\StoreWebUI\Debug\StoreWebUI.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\StoreWebUI\Debug\StoreWebUI.csproj.CoreCompileInputs.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\StoreWebUI\Debug\StoreWebUI.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\StoreWebUI\Debug\StoreWebUI.pdb

@@ -1,0 +1,8 @@
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\DataAccessLayer\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\DataAccessLayer\bin\Debug\Bookstore.mdf
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\DataAccessLayer\bin\Debug\Bookstore_log.ldf
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\DataAccessLayer\Debug\DataAccessLayer.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\DataAccessLayer\Debug\DataAccessLayer.pdb
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\DataAccessLayer\bin\Debug\DataAccessLayer.pdb

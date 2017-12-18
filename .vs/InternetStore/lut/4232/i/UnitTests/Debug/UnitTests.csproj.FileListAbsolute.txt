@@ -1,0 +1,2 @@
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\UnitTests\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\UnitTests\Debug\UnitTests.csproj.CoreCompileInputs.cache

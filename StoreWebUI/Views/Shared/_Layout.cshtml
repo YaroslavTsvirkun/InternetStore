@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <a class="navbar-brand" href="#">
+            <span class="hidden-xs">@Html.ActionLink("BookStore - книжный магазин", "List", "Books", new { area = "" }, new { @class = "navbar-brand hidden-xs" })</span>
+            <div class="visible-xs">@Html.ActionLink("BookStore", "List", "Books", new { area = "" }, new { @class = "navbar-brand visible-xs" })</div>
+        </a>
+        @Html.Partial("_LoginPartial")
+        @Html.Action("Summary", "Cart")
+        
+    </div>
+
+    <div class="visible-xs">
+        @Html.Action("Menu", "Navigation", new { horizontalNav = true})
+    </div>
+
+    <div class="row panel">
+        <div id="genres" class="col-sm-3 hidden-xs">
+            @Html.Action("Menu", "Navigation")
+        </div>
+        <div class="col-xs-12 col-sm-8">
+            @RenderBody()
+        </div>
+    </div> 
+</body>
+</html>

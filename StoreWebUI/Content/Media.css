@@ -1,0 +1,41 @@
+﻿/* Медиа запросы */
+
+/* Extara Small Devices, Screens */
+@media only screen and (max-width: 1200px) {
+
+}
+
+/* Extara Small Devices, Desktops */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Extara Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Extara Small Devices, Phones */
+@media only screen and (max-width: 480px){
+
+}
+
+/*Landscape - телефоны*/
+@media (max-width: 480px){
+
+}
+
+/*От ландшафтного экрана телефона до портретного планшета*/
+@media (max-width: 767px){
+
+}
+
+/*От портретного планшета до ландшафтного экрана и настольных дисплеев*/
+@media (min-width: 768px) and (max-width: 979px){
+
+}
+
+/*Большой дисплей*/
+@media (min-width: 1200px){
+
+}

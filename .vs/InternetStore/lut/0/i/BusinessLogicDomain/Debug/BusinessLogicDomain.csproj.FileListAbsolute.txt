@@ -1,0 +1,7 @@
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\BusinessLogicDomain\bin\Debug\BusinessLogicDomain.dll.config
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\BusinessLogicDomain\bin\Debug\BusinessLogicDomain.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\b\BusinessLogicDomain\bin\Debug\BusinessLogicDomain.pdb
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\BusinessLogicDomain\Debug\BusinessLogicDomain.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\BusinessLogicDomain\Debug\BusinessLogicDomain.csproj.CoreCompileInputs.cache
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\BusinessLogicDomain\Debug\BusinessLogicDomain.dll
+C:\Users\test\documents\visual studio 2017\Projects\InternetStore\.vs\InternetStore\lut\0\i\BusinessLogicDomain\Debug\BusinessLogicDomain.pdb
